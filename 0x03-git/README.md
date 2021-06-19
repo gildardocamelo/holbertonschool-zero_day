@@ -3,7 +3,7 @@
 This <README.md> which lists directories and files containing basic bash console
 scripts and basic git handling.
 
-## Directory list :books: & :page_facing_up:
+## Directory list :card_index_dividers: & :memo::pencil:
 
 1. bash `Contains directories and files.`
    - 98 `Empty directory.`
