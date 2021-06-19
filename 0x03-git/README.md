@@ -9,7 +9,7 @@ console scripts and basic git handling.
    - 98
    - holberton
    - school
-2. c `Contains a file.`
+2. c `Contains a empty file.`
    - c_is_fun.c
 
 ## list :page_facing_up:
