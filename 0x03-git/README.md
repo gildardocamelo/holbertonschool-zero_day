@@ -1,11 +1,11 @@
 # 0x03. git
 
-This <README.md> which lists directories and files containing basic bash console
-scripts and basic git handling.
+This is a <README.md> that lists directories and files containing basic bash
+console scripts and basic git handling.
 
 ## Directory list :open_file_folder:
 
-1. bash `echo``command.`
+1. bash `echo` `command.`
    - 98
    - holberton
    - school
