@@ -1,6 +1,6 @@
 # 0x00. Vagrant
 
-this <README.md> contains a file that shows the result of executing the `uname`
+This <README.md> contains a file that shows the result of executing the `uname`
 command in the bash console.
 
 ## List :page_facing_up:
