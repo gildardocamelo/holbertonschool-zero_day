@@ -3,14 +3,17 @@
 This <README.md> which lists directories and files containing basic bash console
 scripts and basic git handling.
 
-## Directory list :open_file_folder: & :pencil:
+## Directory list :open_file_folder:
 
-1. bash `Contains directories and files.`
-   - 98 `Empty directory.`
-   - holberton `Basic bash script that contains an echo.`
-   - school `Basic bash script that contains an echo.`
+1. bash `echo``command.`
+   - 98
+   - holberton
+   - school
 2. c `Contains a file.`
-   - c_is_fun.c `Contains a empty file.`
+   - c_is_fun.c
+
+## list :page_facing_up:
+
 3. .gitignore `Contains a script that ignores all files ending in` `~.`
 4. up_to_date `Contains a file to pull git.`
 
