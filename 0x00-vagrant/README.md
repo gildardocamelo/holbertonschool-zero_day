@@ -1,6 +1,6 @@
-# 0-hello_ubuntu
+# 0-Hello, ubuntu
 
-This <README.md> is a file that contains a text file.
+This <README.md> is a file that contains a file that runs a basic bash script.
 
 ## List :page_facing_up:
 
