@@ -11,7 +11,7 @@ scripts, and basic git handling.
    - school ```Basic bash script that contains an echo.```
 2. c ```Contains a file.```
    - c_is_fun.c ```Contains a empty file.```
-3. .gitignore ```Contains a script that ignores all files ending in `~`.```
+3. .gitignore ```Contains a script that ignores all files ending in '~'.```
 4. up_to_date ```Contains a file to pull git.```
 
 
