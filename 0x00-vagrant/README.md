@@ -1,9 +1,9 @@
-# 0-Hello, ubuntu
+# 0x00. vagrant
 
 This <README.md> is a file that contains a file that runs a basic bash script.
 
 ## List :page_facing_up:
 
-1. 0x00-vagrant ```Displays the result of executing the uname command.```
+1. 0-hello_ubuntu ```Displays the result of executing the uname command.```
 
 > Full Stack Software Engineering - Holberton School
