@@ -1,4 +1,4 @@
-# 0x00. vagrant
+# 0x00. Vagrant
 
 This <README.md> is a file that contains a file that runs a basic bash script.
 
