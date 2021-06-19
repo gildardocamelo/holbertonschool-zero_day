@@ -12,7 +12,7 @@ console scripts and basic git handling.
 2. c `Contains a empty file.`
    - c_is_fun.c
 
-## list :page_facing_up:
+## File list :page_facing_up:
 
 3. .gitignore `Contains a script that ignores all files ending in` `~.`
 4. up_to_date `Contains a file to pull git.`
