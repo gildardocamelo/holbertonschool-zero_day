@@ -2,7 +2,6 @@
 
 This is a <README.md> that lists files with the basic `echo` command.
 
-
 ## list :page_facing_up:
 
 1. 98 `Empty file.`
