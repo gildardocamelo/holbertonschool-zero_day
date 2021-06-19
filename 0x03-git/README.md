@@ -1,7 +1,7 @@
 # 0x03-git
 
-This <README.md> is a file that lists directories and files with basic scripts,
-and basic git handling.
+This <README.md> is a file that lists directories and files with basic bash
+scripts, and basic git handling.
 
 ## Directory list :books: & :page_facing_up:
 
@@ -11,7 +11,7 @@ and basic git handling.
    - school ```Basic bash script that contains an echo.```
 2. c ```Contains a file.```
    - c_is_fun.c ```Contains a empty file.```
-3. .gitignore
+3. .gitignore ```Contains a script that ignores all files ending in `~`.```
 4. up_to_date ```Contains a file to pull git.```
 
 
