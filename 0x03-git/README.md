@@ -6,14 +6,13 @@ and basic git handling.
 ## Directory list :books: & :page_facing_up:
 
 1. bash ```Contains directories and files.```
-   a. 98 ```Empty directory.```
-   b. holberton ```Basic bash script that contains an echo.```
+   - 98 ```Empty directory.```
+   - holberton ```Basic bash script that contains an echo.```
    - school ```Basic bash script that contains an echo.```
-
 2. c ```Contains a file.```
-* a. c_is_fun.c ```Contains a empty file.```
+   - c_is_fun.c ```Contains a empty file.```
 3. .gitignore
 4. up_to_date ```Contains a file to pull git.```
-*sdsd*
+
 
 > Full Stack Software Engineering - Holberton School
